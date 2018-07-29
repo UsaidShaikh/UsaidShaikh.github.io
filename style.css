@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(Red,orange,yellow,green,blue); }
+
+img {
+  width: 30%;
+  display: block;
+  margin: auto;
+}
+
+.subheadings {
+  text-align: center;
+}
